@@ -1,3 +1,6 @@
+#### Pipeline Source Name ####
+# Description of your Python-based pipeline source.
+
 from ovito.data import DataCollection
 from ovito.pipeline import PipelineSourceInterface
 # from traits.api import Range, observe
